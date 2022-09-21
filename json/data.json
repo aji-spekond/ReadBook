@@ -1,0 +1,46 @@
+{
+  "Bookdata":  [
+  
+  
+    {
+        "id":1,
+        "title":"RichDad",
+        "content":"RichDad published in the year 2015 the author name is Robert"
+    },
+
+    {
+        "id":2,
+        "title":"ikia",
+        "content":"Ikia published in the year 2018 published by japnese author Francesec"
+    },
+    {
+        "id":3,
+        "title":"DeapSoul",
+        "content":"Deapsoul is pulished in the year 2010 by an american author lisa olivera"
+    },
+
+    {
+        "id":4,
+        "title":"Stranger Things",
+        "content":"Stranger things is published in the year 2020 the author of book is Gwenda Bond"
+    },
+
+    {
+        "id":5,
+        "title":"Rise of Emperor",
+        "content":"Rise of Emperor is published in the year 2013 by an freanch author Michael Sullivan"
+    },
+    {
+        "id":6,
+        "title":"PeakyBlinders",
+        "content":"PeakyBlinders is publinshed in the year 2013 by an British author Matt Allen"
+    },
+
+    {
+        "id":7,
+        "title":"Karma",
+        "content":"Karma is published by saint Sadhgur in the year of 2021"
+    }
+]
+
+}
